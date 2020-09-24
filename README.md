@@ -134,5 +134,5 @@ game = Game()
 game.play_game()
 
 
-New_1234 = input("終了です。ありがとう。")
+New_1234 = input("終了です。")
 New_12345 = input("")
