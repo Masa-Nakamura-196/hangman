@@ -49,7 +49,7 @@ WORD_list_1A = ["provide", "merchant", "needle", "fasten", "mental", "object", "
 
 import random                                                            # 引数の単語をランダム化する
 
-Secret_number_random = random.randint(0,10)                              # 単語追加したときに、index変えるのを忘れずに！！
+Secret_number_random = random.randint(0,10)                              # 単語追加したときに、index変えるのを忘れずに！！！！
 
 DX_Question_word_10 = WORD_list_1A[Secret_number_random]
 
